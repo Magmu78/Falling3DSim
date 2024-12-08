@@ -1,0 +1,8 @@
+# Visual Studio files
+.vs/
+*.vsix
+*.db
+*.user
+*.suo
+*.opendb
+*.VC.db
